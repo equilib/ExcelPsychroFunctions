@@ -14,7 +14,7 @@ from math import atan
 from math import exp
 from math import log
 
-# thermodynamic constants
+# thermophysical constants
 __Rda = 53.352                     # ft-lbf/(lb - R)
 __Rv = 85.778                      # ft-lbf/(lb - R)
 __cp_da = 0.240                    # Btu/(lbm - R)
